@@ -1,9 +1,9 @@
 # codealpha_tasks
 CodeAlpha Internship Tasks
 
-This repository contains my completed tasks for the CodeAlpha Data Science Internship.
+This repository contains my completed task for the CodeAlpha Data Science Internship.
 
-Completed Tasks
+Completed Task
 
 Task 1 – Iris Flower Classification
 
@@ -11,11 +11,7 @@ Task 1 – Iris Flower Classification
 * Performed data preprocessing and model evaluation.
 * Visualized feature importance.
 
-Task 3 – Car Price Prediction
 
-* Built a Linear Regression model to predict car selling prices.
-* Performed data preprocessing and feature engineering.
-* Evaluated the model using MAE, MSE, RMSE, and R² Score.
 
 Technologies Used
 
@@ -28,6 +24,5 @@ Technologies Used
 Repository Structure
 
 * Task1 - Iris Flower Classification
-* Task3 - Car Price Prediction
 
 Thank you for reviewing my submission.
